@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="OrderFormTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-07-18T17:15:15" hostname="POWODOK" time="5.7">
+<testsuite name="OrderFormTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-07-20T10:16:53" hostname="POWODOK" time="11.894">
   <properties/>
-  <testcase name="shouldEmptyPhoneField()" classname="OrderFormTest" time="2.256"/>
-  <testcase name="shouldHyphenInNameField()" classname="OrderFormTest" time="0.55"/>
-  <testcase name="shouldCheckboxNotMarked()" classname="OrderFormTest" time="0.373"/>
-  <testcase name="shouldPhoneWithoutPlusSymbol()" classname="OrderFormTest" time="0.408"/>
-  <testcase name="shouldSubmitFormTest()" classname="OrderFormTest" time="0.417"/>
-  <testcase name="shouldMoreElevenCharactersInPhone()" classname="OrderFormTest" time="0.503"/>
-  <testcase name="shouldLessElevenCharactersInPhone()" classname="OrderFormTest" time="0.41"/>
-  <testcase name="shouldLatinLettersInNameField()" classname="OrderFormTest" time="0.386"/>
-  <testcase name="shouldEmptyNameField()" classname="OrderFormTest" time="0.391"/>
+  <testcase name="shouldEmptyPhoneField()" classname="OrderFormTest" time="8.432"/>
+  <testcase name="shouldHyphenInNameField()" classname="OrderFormTest" time="0.544"/>
+  <testcase name="shouldCheckboxNotMarked()" classname="OrderFormTest" time="0.416"/>
+  <testcase name="shouldPhoneWithoutPlusSymbol()" classname="OrderFormTest" time="0.48"/>
+  <testcase name="shouldSubmitFormTest()" classname="OrderFormTest" time="0.414"/>
+  <testcase name="shouldMoreElevenCharactersInPhone()" classname="OrderFormTest" time="0.394"/>
+  <testcase name="shouldLessElevenCharactersInPhone()" classname="OrderFormTest" time="0.404"/>
+  <testcase name="shouldLatinLettersInNameField()" classname="OrderFormTest" time="0.427"/>
+  <testcase name="shouldEmptyNameField()" classname="OrderFormTest" time="0.377"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 35012
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 33141
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-июл. 18, 2023 9:15:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+июл. 20, 2023 2:17:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 111
 ]]></system-err>
 </testsuite>

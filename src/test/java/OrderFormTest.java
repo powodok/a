@@ -14,10 +14,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class OrderFormTest {
 
-    @BeforeAll
-    public static void setupAll() {
-        WebDriverManager.chromedriver().setup();
-    }
+
     @BeforeEach
     void setUp() {
         open("http://localhost:9999");
